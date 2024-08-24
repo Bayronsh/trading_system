@@ -1,0 +1,8 @@
+MetaTrader5
+psutil
+pandas
+numpy
+scipy
+statsmodels
+scikit-learn
+prometheus-client
